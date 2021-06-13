@@ -9,7 +9,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#agenda">Roadmap</a></li>
+    <li><a href="#scope">Roadmap</a></li>
      <li><a href="#use-cases">Use Cases</a></li>
 
   </ol>
@@ -31,8 +31,8 @@ Over the past couple of months, I have been thoroughly intrigued by the world of
 <h4>Dataset Link</h4> 
 https://www1.nseindia.com/products/content/equities/equities/eq_security.htm
 
-<!-- Agenda -->
-## Agenda
+<!-- Scope -->
+## Scope
 
 Time period : 1 Year </br>
 Stock in Focus : Tata Power </br>

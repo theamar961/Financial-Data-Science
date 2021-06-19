@@ -53,12 +53,12 @@ Stock in Focus : Adani Power </br>
 
 <!-- Use Cases -->
 ## Use Cases 
-Understand change in price with respect to volume <br>
-Is the interest in this stock increasing? <br> 
-Identifying inflection points in the data <br>
+Understand change in price with respect to volume. <br>
+Is the interest in a particular stock increasing? <br> 
+Identifying inflection points in stock metrics. <br>
 How has the price changed with respect to the NIFTY index? <br>
-How significant are the price changes and what does it mean? <br>
-Many more <br>
+How significant are the price changes and what do they mean? <br>
+Many more... <br>
 
 
 
